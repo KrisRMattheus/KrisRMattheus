@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Thank you for stopping by my profile! I'm excited that you want to learn more about me. I've been in the insurance industry for a long time in Sales, Underwriting, Claims, and Investigations. I have Bachelor's Degree in Criminal Justice and a naturally intuitive and curious disposition. Using data to explore trends and uncover solutions makes me so happy. 
+
+- 🔭 I’m currently working on my SQL skills with daily practice and application.
+- 💬 Ask me about fishing, I LOVE fishing. 
+- 📫 How to reach me: kristymattheus@gmail.com or 916-207-6749
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I am small business owner of a indoor cycling studio that survived Covid. 
 <!--
 **KrisRMattheus/KrisRMattheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
